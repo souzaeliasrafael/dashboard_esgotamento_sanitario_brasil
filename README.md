@@ -9,4 +9,5 @@ Fonte de dados:
 - [IBGE](www.ibge.gov.br/estatisticas/sociais/trabalho/22827-censo-demografico-2022.html?edicao=37225&t=resultados); e
 - [SNIS](app4.mdr.gov.br/serieHistorica/#)
 
+*Dados coletados dia 10 de julho de 2024*
 
